@@ -1,0 +1,138 @@
+* {
+    margin: 0;
+    padding: 0;
+    /* color: white; */
+    /* background-color: rgb(0, 0, 0); */
+}
+.nav{
+    border: 1px solid dotted;
+    background-color: black;
+    height: 10%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px 20px;
+}
+.ww{
+    height: 10%;
+}
+
+
+.link{
+    display: flex;
+    gap: 50px;
+}
+a{
+    text-decoration: none;
+    color: green ;
+    margin: 0px;
+}
+.changan{
+    height: auto;
+    width: 10%;
+}
+.banner{
+    height: 90%;
+    width: 100%;
+}
+.text{
+    position: relative;
+    position: absolute;
+    display: inline-block;
+    left: 40%;
+    /* transform: translate(-50%, -50%); */
+    color: black;
+    font-size: 24px;
+}
+.footer{
+ position: relative;
+    position: absolute;
+    top: 80%;
+    left: 13%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 24px;
+}
+.line{
+    position: relative;
+    position: absolute;
+    top: 80%;
+    left: 35%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 24px;
+}
+.tittle{
+    position: relative;
+    position: absolute;
+    top: 80%;
+    left: 60%;
+    transform: translate(-50%, -50%);
+    color: white;
+    font-size: 24px;
+}
+.speed{
+    
+    position: relative;
+    position: absolute;
+    top: 80%;
+    left: 85%;
+    transform: translate(-50%, -50%);
+    color: rgb(73, 32, 100);
+
+}
+.border{
+    border: 3px dotted black;
+    width: 20%;
+    height: 20%;
+}
+.item{
+    background-color: bisque;
+    text-align: center;
+    
+}
+.border{
+     margin-left: 80px; 
+    color: black;
+    background-color: brown;
+}
+img{
+    height: 100%;
+    width: 100%;
+}
+.texting{
+    margin-left: 20%;
+    font-size: larger;
+    /* color: blueviolet; */
+}
+.para{
+    color:black;
+    margin-left: 40%;
+    font-size: large;}
+.picks{
+     height: auto;
+    width: 100%;
+}
+.praha{
+    height: 15%;
+    width: 40%;
+    margin-left: 20%;
+    
+}
+.siroc{
+    margin-left: 60%;
+
+}
+.xand{
+    height: 40%;
+    width: 20%;
+}
+.silo{
+    height: 50%;
+    width: 40%;
+    margin-left: 40% ;
+}
+.colet{
+margin-left: 20%;
+top: 30%;
+}
